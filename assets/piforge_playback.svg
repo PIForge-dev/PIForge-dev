@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 375" width="600" height="375" font-family="Inter, Segoe UI, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#072034"/><stop offset="1" stop-color="#051421"/></linearGradient></defs>
+  <rect width="600" height="375" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="375" fill="#2dd4bf"/>
+  <text x="30" y="50" font-size="28" font-weight="800" letter-spacing="0.5"><tspan fill="#2dd4bf">PI</tspan><tspan fill="#8499ab">Forge</tspan></text>
+  <g transform="translate(234,72) scale(5.5)" fill="none" stroke="#2dd4bf" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" color="#2dd4bf">
+    <circle cx="12" cy="8.5" r="5"/>
+    <path d="M10.5 6.4 L14 8.5 L10.5 10.6 Z" fill="currentColor" stroke="none"/>
+    <line x1="3" y1="18.5" x2="21" y2="18.5"/>
+    <circle cx="9.5" cy="18.5" r="1.6" fill="currentColor" stroke="none"/>
+  </g>
+  <text x="30" y="296" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Playback Pro</text>
+  <text x="30" y="338" font-size="28" font-weight="500" fill="#9fb3c4">Historical replay &amp; time controls</text>
+  <rect x="30" y="358" width="52" height="5" rx="2.5" fill="#2dd4bf"/>
+</svg>
