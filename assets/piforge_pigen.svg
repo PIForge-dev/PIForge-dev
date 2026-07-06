@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 375" width="600" height="375" font-family="Inter, Segoe UI, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#072034"/><stop offset="1" stop-color="#051421"/></linearGradient></defs>
+  <rect width="600" height="375" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="375" fill="#f59e0b"/>
+  <text x="30" y="50" font-size="28" font-weight="800" letter-spacing="0.5"><tspan fill="#06b6d4">PI</tspan><tspan fill="#8499ab">Forge</tspan></text>
+  <g transform="translate(234,72) scale(5.5)" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 12 L6 12 L8 6 L11 18 L13 9 L15 14 L17 12 L21 12" stroke-width="1.8"/>
+    <circle cx="21" cy="12" r="1.4" fill="#f59e0b" stroke="none"/>
+    <path d="M4 19 L4 17.2 M7 19 L7 16.4 M10 19 L10 17.8 M13 19 L13 16.8 M16 19 L16 17.4 M19 19 L19 16.6" stroke-width="1.1" opacity="0.55"/>
+  </g>
+  <text x="30" y="296" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-0.5">PIGen</text>
+  <text x="30" y="338" font-size="28" font-weight="500" fill="#9fb3c4">Real-time PI data simulator</text>
+</svg>
