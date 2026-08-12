@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 375" width="600" height="375" font-family="Inter, Segoe UI, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#072034"/><stop offset="1" stop-color="#051421"/></linearGradient></defs>
+  <rect width="600" height="375" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="375" fill="#f59e0b"/>
+  <text x="30" y="50" font-size="28" font-weight="800" letter-spacing="0.5"><tspan fill="#f59e0b">PI</tspan><tspan fill="#8499ab">Forge</tspan></text>
+  <g transform="translate(234,72) scale(5.5)" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="12,3.5 21.5,20 2.5,20" stroke-width="1.6"/>
+    <line x1="8.83" y1="9" x2="15.17" y2="9" stroke-width="0.9" opacity="0.4"/>
+    <line x1="5.67" y1="14.5" x2="18.33" y2="14.5" stroke-width="0.9" opacity="0.4"/>
+    <line x1="15.17" y1="9" x2="8.83" y2="20" stroke-width="0.9" opacity="0.4"/>
+    <line x1="18.33" y1="14.5" x2="15.17" y2="20" stroke-width="0.9" opacity="0.4"/>
+    <line x1="8.83" y1="9" x2="15.17" y2="20" stroke-width="0.9" opacity="0.4"/>
+    <line x1="5.67" y1="14.5" x2="8.83" y2="20" stroke-width="0.9" opacity="0.4"/>
+    <circle cx="15.8" cy="16.2" r="1.7" fill="#f59e0b" stroke="none"/>
+  </g>
+  <text x="30" y="296" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Duval</text>
+  <text x="30" y="338" font-size="28" font-weight="500" fill="#9fb3c4">DGA fault zones + C57.104 verdict</text>
+  <rect x="30" y="358" width="52" height="5" rx="2.5" fill="#f59e0b"/>
+</svg>
