@@ -55,6 +55,7 @@ Every product has a live video demo on its page.
 | Tool | Description | Get it |
 |---|---|---|
 | **Combo Chart — Free Edition** | Trend line + bar series on one time axis, free for any PI Vision deployment | [GitHub](https://github.com/PIForge-dev/piforge-combo-chart-free) · [GitLab](https://gitlab.com/contact.piforge/piforge-combo-chart-free) |
+| **AlarmIQ — Free Edition** | The alarm list PI Vision does not have: drop tags, set a limit, see what is alarming now | [GitHub](https://github.com/PIForge-dev/piforge-alarmiq-free) · [GitLab](https://gitlab.com/contact.piforge/piforge-alarmiq-free) |
 
 ## Support
 
