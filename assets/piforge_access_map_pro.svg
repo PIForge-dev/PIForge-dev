@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 375" width="600" height="375" font-family="Inter, Segoe UI, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#072034"/><stop offset="1" stop-color="#051421"/></linearGradient></defs>
+  <rect width="600" height="375" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="375" fill="#f2c811"/>
+  <text x="30" y="50" font-size="28" font-weight="800" letter-spacing="0.5"><tspan fill="#f2c811">PI</tspan><tspan fill="#8499ab">Forge</tspan></text>
+  <!-- the Standard glyph (accounts -> identities -> resources, one Deny dashed) with the thing Pro
+       adds: a signed review — the check in the seal on the right -->
+  <g transform="translate(234,72) scale(5.5)" fill="none" stroke="#f2c811" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0.8" y="2.6" width="3.4" height="3.4" rx="0.8"/>
+    <rect x="0.8" y="10.3" width="3.4" height="3.4" rx="0.8"/>
+    <rect x="0.8" y="18" width="3.4" height="3.4" rx="0.8"/>
+    <polygon points="11,5 13.1,6.2 13.1,8.6 11,9.8 8.9,8.6 8.9,6.2"/>
+    <polygon points="11,14.2 13.1,15.4 13.1,17.8 11,19 8.9,17.8 8.9,15.4"/>
+    <path d="M4.2 4.3 L8.9 6.9"/>
+    <path d="M4.2 12 L8.9 8"/>
+    <path d="M4.2 12 L8.9 16" opacity="0.55"/>
+    <path d="M4.2 19.7 L8.9 17.2"/>
+    <path d="M13.1 7.4 L16 9.6"/>
+    <path d="M13.1 16.6 L16 14.4" opacity="0.6" stroke-dasharray="1.3 1.1"/>
+    <path d="M19.6 6.4 l3.4 1.5 v3.4 c0 2.7 -1.5 4.6 -3.4 5.5 c-1.9 -0.9 -3.4 -2.8 -3.4 -5.5 v-3.4 z" fill="#f2c811" fill-opacity="0.18"/>
+    <polyline points="17.9,11.7 19.2,13.1 21.5,10.3"/>
+  </g>
+  <rect x="318" y="262" width="62" height="30" rx="6" fill="#f2c811"/>
+  <text x="349" y="284" font-size="20" font-weight="800" fill="#051421" text-anchor="middle" letter-spacing="1">PRO</text>
+  <text x="30" y="296" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Access Map</text>
+  <text x="30" y="338" font-size="28" font-weight="500" fill="#9fb3c4">Signed reviews, drift &amp; compliance</text>
+  <rect x="30" y="358" width="52" height="5" rx="2.5" fill="#f2c811"/>
+</svg>
